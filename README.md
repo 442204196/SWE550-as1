@@ -100,3 +100,15 @@ docker-compose up
 docker-compose down
    ```
 # Screenshoots
+1. Run containers process "docker-compose up".
+<img src= "Container Created process.jpeg">
+
+
+2. Containers list "docker container ls"
+<img src= "Container ls screenshoot.png">
+
+
+3. Containers screenshoot.png
+<img src= "Container screenshoot.png">
+
+

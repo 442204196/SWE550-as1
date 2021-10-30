@@ -108,7 +108,7 @@ docker-compose down
 <img src= "Container ls screenshoot.png">
 
 
-3. Containers screenshoot.png
-<img src= "Container screenshoot.png">
+3. Containers screenshoot
+<img src= "Containers Screenshoot">
 
 

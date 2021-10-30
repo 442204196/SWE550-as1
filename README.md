@@ -111,4 +111,6 @@ docker-compose down
 3. Containers screenshoot
 <img src= "Containers Screenshoot.png">
 
+# Database schema
+<img src= "ItemSchema.png">
 
